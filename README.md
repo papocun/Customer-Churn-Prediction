@@ -128,4 +128,4 @@ pip install -r requirements.txt
 
 ## Author
 
-Divyansh Tiwari
+Divyanshu Tiwari
